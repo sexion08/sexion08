@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sexion08
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning kotlin
+- 💞️ I’m looking to collaborate on some new android dev projects
+- 📫 How to reach me edimod39@gmail.com
+- ⚡ Fun fact: i'm not a software engineer
